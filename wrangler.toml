@@ -11,7 +11,7 @@ routes = [
 ]
 
 kv_namespaces = [
-    { binding = "CDN_USERS", id = "913344d345d843299cd1107c52007924", preview_id = "c5d67610a03b481c8822f529d74ad7a1" }
+    { binding = "CDN_USERS", id = "acba5820fa4c49ee928e928974643c72", preview_id = "acba5820fa4c49ee928e928974643c72" }
 ]
 
 [[r2_buckets]]
