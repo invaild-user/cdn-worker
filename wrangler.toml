@@ -3,13 +3,17 @@ main = "src/index.ts"
 compatibility_date = "2023-03-07"
 send_metrics = false
 
-account_id = "3d314ce955c4f69056e1f4b64842fd55"
+account_id = "725a63dc4b6475018e61b5122fe962cb"
 workers_dev = false
+
+routes = [
+    "cdn.invaild.me/*"
+]
 
 [[kv_namespaces]]
 binding = "CDN_USERS"
-id = "913344d345d843299cd1107c52007924"
-preview_id = "c5d67610a03b481c8822f529d74ad7a1"
+id = "acba5820fa4c49ee928e928974643c72"
+preview_id = "acba5820fa4c49ee928e928974643c72"
 
 [[r2_buckets]]
 binding = "CDN_BUCKET"
