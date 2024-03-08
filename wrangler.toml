@@ -3,7 +3,7 @@ main = "src/index.ts"
 compatibility_date = "2023-03-07"
 send_metrics = false
 
-account_id = "3d314ce955c4f69056e1f4b64842fd55"
+account_id = "725a63dc4b6475018e61b5122fe962cb"
 workers_dev = false
 
 routes = [
