@@ -20,4 +20,4 @@ bucket_name = "cdn"
 preview_bucket_name = "cdn"
 
 [vars]
-REDIRECT_URL = "https://www.serenmodz.rocks"
+REDIRECT_URL = "https://seren.dev"
